@@ -1,0 +1,558 @@
+THE BIOLOGIST George Wald once compared his work on an
+exceedingly specialized subject, the visual pigments of the eye, to
+a very narrow window through which at a distance one can see
+only a crack of light. As one comes closer the view grows wider
+and wider, until finally through this same narrow window one is
+looking at the universe.
+So it is that only when we bring our focus to bear, first on the
+individual cells of the body, then on the minute structures within
+the cells, and finally on the ultimate reactions of molecules within
+these structuresonly when we do this can we comprehend the
+most serious and far-reaching effects of the haphazard
+introduction of foreign chemicals into our internal environment.
+Medical research has only rather recently turned to the
+functioning of the individual cell in producing the energy that is
+the indispensable quality of life. e extraordinary energy-
+producing mechanism of the body is basic not only to health but
+to life; it transcends in importance even the most vital organs, for
+without the smooth and effective functioning of energy-yielding
+oxidation none of the bodys functions can be performed. Yet the
+nature of many of the chemicals used against insects, rodents, and
+weeds is such that they may strike directly at this system,
+disrupting its beautifully functioning mechanism.
+e research that led to our present understanding of cellular
+oxidation is one of the most impressive accomplishments in all
+biology and biochemistry. e roster of contributors to this work
+includes many Nobel Prize winners. Step by step it has been going
+on for a quarter of a century, drawing on even earlier work for
+some of its foundation stones. Even yet it is not complete in all
+details. And only within the past decade have all the varied pieces
+of research come to form a whole so that biological oxidation
+could become part of the common knowledge of biologists. Even
+more important is the fact that medical men who received their
+basic training before  have had little opportunity to realize
+the critical importance of the process and the hazards of
+disrupting it.
+e ultimate work of energy production is accomplished not
+in any specialized organ but in every cell of the body. A living cell,
+like a flame, burns fuel to produce the energy on which life
+depends. e analogy is more poetic than precise, for the cell
+accomplishes its burning with only the moderate heat of the
+bodys normal temperature. Yet all these billions of gently
+burning little fires spark the energy of life. Should they cease to
+burn, no heart could beat, no plant could grow upward defying
+gravity, no amoeba could swim, no sensation could speed along a
+nerve, no thought could flash in the human brain, said the
+chemist Eugene Rabinowitch.
+e transformation of matter into energy in the cell is an
+ever-flowing process, one of natures cycles of renewal, like a
+wheel endlessly turning. Grain by grain, molecule by molecule,
+carbohydrate fuel in the form of glucose is fed into this wheel; in its cyclic passage the fuel molecule undergoes fragmentation and
+a series of minute chemical changes. e changes are made in
+orderly fashion, step by step, each step directed and controlled by
+an enzyme of so specialized a function that it does this one thing
+and nothing else. At each step energy is produced, waste products
+(carbon dioxide and water) are given off, and the altered molecule
+of fuel is passed on to the next stage. When the turning wheel
+comes full cycle the fuel molecule has been stripped down to a
+form in which it is ready to combine with a new molecule coming
+in and to start the cycle anew.
+is process by which the cell functions as a chemical factory
+is one of the wonders of the living world. e fact that all the
+functioning parts are of infinitesimal size adds to the miracle.
+With few exceptions cells themselves are minute, seen only with
+the aid of a microscope. Yet the greater part of the work of
+oxidation is performed in a theater far smaller, in tiny granules
+within the cell called mitochondria. Although known for more
+than  years, these were formerly dismissed as cellular elements
+of unknown and probably unimportant function. Only in the
+s did their study become an exciting and fruitful field of
+research; suddenly they began to engage so much attention that
+papers on this subject alone appeared within a five-year
+period.
+Again one stands in awe at the marvelous ingenuity and
+patience by which the mystery of the mitochondria has been
+solved. Imagine a particle so small that you can barely see it even
+though a microscope has enlarged it for you  times. en
+imagine the skill required to isolate this particle, to take it apart
+and analyze its components and determine their highly complex
+functioning. Yet this has been done with the aid of the electron
+microscope and the techniques of the biochemist.
+It is now known that the mitochondria are tiny packets of
+enzymes, a varied assortment including all the enzymes necessary
+for the oxidative cycle, arranged in precise and orderly array on
+walls and partitions. e mitochondria are the powerhouses in
+which most of the energy-producing reactions occur. After the
+first, preliminary steps of oxidation have been performed in the
+cytoplasm the fuel molecule is taken into the mitochondria. It is
+here that oxidation is completed; it is here that enormous
+amounts of energy are released.
+e endlessly turning wheels of oxidation within the
+mitochondria would turn to little purpose if it were not for this
+all-important result. e energy produced at each stage of the
+oxidative cycle is in a form familiarly spoken of by the biochemists
+as ATP (adenosine triphosphate), a molecule containing three
+phosphate groups. e role of ATP in furnishing energy comes
+from the fact that it can transfer one of its phosphate groups to
+other substances, along with the energy of its bonds of electrons
+shuttling back and forth at high speed. us, in a muscle cell,
+energy to contract is gained when a terminal phosphate group is
+transferred to the contracting muscle. So another cycle takes
+placea cycle within a cycle: a molecule of ATP gives up one of
+its phosphate groups and retains only two, becoming a
+diphosphate molecule, ADP. But as the wheel turns further
+another phosphate group is coupled on and the potent ATP is
+restored. e analogy of the storage battery has been used: ATP
+represents the charged, ADP the discharged battery.
+ATP is the universal currency of energyfound in all
+organisms from microbes to man. It furnishes mechanical energy
+to muscle cells; electrical energy to nerve cells. e sperm cell, the
+fertilized egg ready for the enormous burst of activity that will
+transform it into a frog or a bird or a human infant, the cell that
+must create a hormone, all are supplied with ATP. Some of the
+energy of ATP is used in the mitochondrion but most of it is
+immediately dispatched into the cell to provide power for other
+activities. e location of the mitochondria within certain cells is
+eloquent of their function, since they are placed so that energy
+can be delivered precisely where it is needed. In muscle cells they
+cluster around contracting fibers; in nerve cells they are found at
+the junction with another cell, supplying energy for the transfer
+of impulses; in sperm cells they are concentrated at the point
+where the propellant tail is joined to the head.
+e charging of the battery, in which ADP and a free
+phosphate group are combined to restore ATP, is coupled to the
+oxidative process; the close linking is known as coupled
+phosphorylation. If the combination becomes uncoupled, the
+means is lost for providing usable energy. Respiration continues
+but no energy is produced. e cell has become like a racing
+engine, generating heat but yielding no power. en the muscle
+cannot contract, nor can the impulse race along the nerve
+pathways. en the sperm cannot move to its destination; the
+fertilized egg cannot carry to completion its complex divisions
+and elaborations. e consequences of uncoupling could indeed
+be disastrous for any organism from embryo to adult: in time it
+could lead to the death of the tissue or even of the organism.
+How can uncoupling be brought about? Radiation is an
+uncoupler, and the death of cells exposed to radiation is thought
+by some to be brought about in this way. Unfortunately, a good
+many chemicals also have the power to separate oxidation from
+energy production, and the insecticides and weed killers are well
+represented on the list. e phenols, as we have seen, have a
+strong effect on metabolism, causing a potentially fatal rise in
+temperature; this is brought about by the racing engine effect of
+uncoupling. e dinitrophenols and pentachlorophenols are
+examples of this group that have widespread use as herbicides.
+Another uncoupler among the herbicides is ,-D. Of the
+chlorinated hydrocarbons, DDT is a proven uncoupler and
+further study will probably reveal others among this group.
+But uncoupling is not the only way to extinguish the little
+fires in some or all of the bodys billions of cells. We have seen
+that each step in oxidation is directed and expedited by a specific
+enzyme. When any of these enzymeseven a single one of
+themis destroyed or weakened, the cycle of oxidation within the
+cell comes to a halt. It makes no difference which enzyme is
+affected. Oxidation progresses in a cycle like a turning wheel. If
+we thrust a crowbar between the spokes of a wheel it makes no
+difference where we do it, the wheel stops turning. In the same
+way, if we destroy an enzyme that functions at any point in the
+cycle, oxidation ceases. ere is then no further energy
+production, so the end effect is very similar to uncoupling.
+e crowbar to wreck the wheels of oxidation can be supplied
+by any of a number of chemicals commonly used as pesticides.
+DDT, methoxychlor, malathion, phenothiazine, and various
+dinitro compounds are among the numerous pesticides that have
+been found to inhibit one or more of the enzymes concerned in
+the cycle of oxidation. ey thus appear as agents potentially
+capable of blocking the whole process of energy production and
+depriving the cells of utilizable oxygen. is is an injury with most
+disastrous consequences, only a few of which can be mentioned
+here.
+Merely by systematically withholding oxygen, experimenters
+have caused normal cells to turn into cancer cells, as we shall see
+in the following chapter. Some hint of other drastic consequences
+of depriving a cell of oxygen can be seen in animal experiments
+on developing embryos. With insufficient oxygen the orderly
+processes by which the tissues unfold and the organs develop are
+disrupted; malformations and other abnormalities then occur.
+Presumably the human embryo deprived of oxygen may also
+develop congenital deformities.
+ere are signs that an increase in such disasters is being
+noticed, even though few look far enough to find all of the causes.
+In one of the more unpleasant portents of the times, the Office of
+Vital Statistics in  initiated a national tabulation of
+malformations at birth, with the explanatory comment that the
+resulting statistics would provide needed facts on the incidence
+of congenital malformations and the circumstances under which
+they occur. Such studies will no doubt be directed largely toward
+measuring the effects of radiation, but it must not be overlooked
+that many chemicals are the partners of radiation, producing
+precisely the same effects. Some of the defects and malformations
+in tomorrows children, grimly anticipated by the Office of Vital
+Statistics, will almost certainly be caused by these chemicals that
+permeate our outer and inner worlds.
+It may well be that some of the findings about diminished
+reproduction are also linked with interference with biological
+oxidation, and consequent depletion of the all-important storage
+batteries of ATP. e egg, even before fertilization, needs to be
+generously supplied with ATP, ready and waiting for the
+enormous effort, the vast expenditure of energy that will be
+required once the sperm has entered and fertilization has
+occurred. Whether the sperm cell will reach and penetrate the egg
+depends upon its own supply of ATP, generated in the
+mitochondria thickly clustered in the neck of the cell. Once
+fertilization is accomplished and cell division has begun, the
+supply of energy in the form of ATP will largely determine
+whether the development of the embryo will proceed to
+completion. Embryologists studying some of their most
+convenient subjects, the eggs of frogs and of sea urchins, have
+found that if the ATP content is reduced below a certain critical
+level the egg simply stops dividing and soon dies.
+It is not an impossible step from the embryology laboratory to
+the apple tree where a robins nest holds its complement of blue-
+green eggs; but the eggs lie cold, the fires of life that flickered for
+a few days now extinguished. Or to the top of a tall Florida pine
+where a vast pile of twigs and sticks in ordered disorder holds
+three large white eggs, cold and lifeless. Why did the robins and
+the eaglets not hatch? Did the eggs of the birds, like those of the
+laboratory frogs, stop developing simply because they lacked
+enough of the common currency of energythe ATP
+moleculesto complete their development? And was the lack of
+ATP brought about because in the body of the parent birds and
+in the eggs there were stored enough insecticides to stop the little
+turning wheels of oxidation on which the supply of energy
+depends?
+It is no longer necessary to guess about the storage of
+insecticides in the eggs of birds, which obviously lend themselves
+to this kind of observation more readily than the mammalian
+ovum. Large residues of DDT and other hydrocarbons have been
+found whenever looked for in the eggs of birds subjected to these
+chemicals, either experimentally or in the wild. And the
+concentrations have been heavy. Pheasant eggs in a California
+experiment contained up to  parts per million of DDT. In
+Michigan, eggs taken from the oviducts of robins dead of DDT
+poisoning showed concentrations up to  parts per million.
+Other eggs were taken from nests left unattended as parent robins
+were stricken with poison; these too contained DDT. Chickens
+poisoned by aldrin used on a neighboring farm have passed on the
+chemical to their eggs; hens experimentally fed DDT laid eggs
+containing as much as  parts per million.
+Knowing that DDT and other (perhaps all) chlorinated
+hydrocarbons stop the energy-producing cycle by inactivating a
+specific enzyme or uncoupling the energy-producing mechanism,
+it is hard to see how any egg so loaded with residues could
+complete the complex process of development: the infinite
+number of cell divisions, the elaboration of tissues and organs, the
+synthesis of vital substances that in the end produce a living
+creature. All this requires vast amounts of energythe little
+packets of ATP which the turning of the metabolic wheel alone
+can produce.
+ere is no reason to suppose these disastrous events are
+confined to birds. ATP is the universal currency of energy, and
+the metabolic cycles that produce it turn to the same purpose in
+birds and bacteria, in men and mice. e fact of insecticide
+storage in the germ cells of any species should therefore disturb
+us, suggesting comparable effects in human beings.
+And there are indications that these chemicals lodge in tissues
+concerned with the manufacture of germ cells as well as in the
+cells themselves. Accumulations of insecticides have been
+discovered in the sex organs of a variety of birds and mammals
+in pheasants, mice, and guinea pigs under controlled conditions,
+in robins in an area sprayed for elm disease, and in deer roaming
+western forests sprayed for spruce budworm. In one of the robins
+the concentration of DDT in the testes was heavier than in any
+other part of the body. Pheasants also accumulated extraordinary
+amounts in the testes, up to  parts per million.
+Probably as an effect of such storage in the sex organs, atrophy
+of the testes has been observed in experimental mammals. Young
+rats exposed to methoxychlor had extraordinarily small testes.
+When young roosters were fed DDT, the testes made only  per
+cent of their normal growth; combs and wattles, dependent for
+their development upon the testicular hormone, were only a third
+the normal size.
+e spermatozoa themselves may well be affected by loss of
+ATP. Experiments show that the motility of bull sperm is
+decreased by dinitrophenol, which interferes with the energy-
+coupling mechanism with inevitable loss of energy. e same
+effect would probably be found with other chemicals were the
+matter investigated. Some indication of the possible effect on
+human beings is seen in medical reports of oligospermia, or
+reduced production of spermatozoa, among aviation crop dusters
+applying DDT.
+For mankind as a whole, a possession infinitely more valuable
+than individual life is our genetic heritage, our link with past and
+future. Shaped through long eons of evolution, our genes not only
+make us what we are, but hold in their minute beings the future
+be it one of promise or threat. Yet genetic deterioration through
+man-made agents is the menace of our time, the last and greatest
+danger to our civilization.
+Again the parallel between chemicals and radiation is exact
+and inescapable.
+e living cell assaulted by radiation suffers a variety of
+injuries: its ability to divide normally may be destroyed, it may
+suffer changes in chromosome structure, or the genes, carriers of
+hereditary material, may undergo those sudden changes known
+as mutations, which cause them to produce new characteristics in
+succeeding generations. If especially susceptible the cell may be
+killed outright, or finally, after the passage of time measured in years, it may become malignant.
+All these consequences of radiation have been duplicated in
+laboratory studies by a large group of chemicals known as
+radiomimetic or radiation-imitating. Many chemicals used as
+pesticidesherbicides as well as insecticidesbelong to this
+group of substances that have the ability to damage the
+chromosomes, interfere with normal cell division, or cause
+mutations. ese injuries to the genetic material are of a kind that
+may lead to disease in the individual exposed or they may make
+their effects felt in future generations.
+Only a few decades ago, no one knew these effects of either
+radiation or chemicals. In those days the atom had not been split
+and few of the chemicals that were to duplicate radiation had as
+yet been conceived in the test tubes of chemists. en in , a
+professor of zoology in a Texas university, Dr. H. J. Muller, found
+that by exposing an organism to X-radiation, he could produce
+mutations in succeeding generations. With Mullers discovery a
+vast new field of scientific and medical knowledge was opened up.
+Muller later received the Nobel Prize in Medicine for his
+achievement, and in a world that soon gained unhappy familiarity
+with the gray rains of fallout, even the nonscientist now knows
+the potential results of radiation.
+Although far less noticed, a companion discovery was made
+by Charlotte Auerbach and William Robson at the University of
+Edinburgh in the early s. Working with mustard gas, they
+found that this chemical produces permanent chromosome
+abnormalities that cannot be distinguished from those induced by
+radiation. Tested on the fruit fly, the same organism Muller had
+used in his original work with X-rays, mustard gas also produced
+mutations. us the first chemical mutagen was discovered.
+Mustard gas as a mutagen has now been joined by a long list
+of other chemicals known to alter genetic material in plants and
+animals. To understand how chemicals can alter the course of
+heredity, we must first watch the basic drama of life as it is played
+on the stage of the living cell.
+e cells composing the tissues and organs of the body must
+have the power to increase in number if the body is to grow and
+if the stream of life is to be kept flowing from generation to
+generation. is is accomplished by the process of mitosis, or
+nuclear division. In a cell that is about to divide, changes of the
+utmost importance occur, first within the nucleus, but eventually
+involving the entire cell. Within the nucleus, the chromosomes
+mysteriously move and divide, ranging themselves in age-old
+patterns that will serve to distribute the determiners of heredity,
+the genes, to the daughter cells. First they assume the form of
+elongated threads, on which the genes are aligned, like beads on
+a string. en each chromosome divides lengthwise (the genes
+dividing also). When the cell divides into two, half of each goes to
+each of the daughter cells. In this way each new cell will contain a
+complete set of chromosomes, and all the genetic information
+encoded within them. In this way the integrity of the race and of
+the species is preserved; in this way like begets like.
+A special kind of cell division occurs in the formation of the
+germ cells. Because the chromosome number for a given species
+is constant, the egg and the sperm, which are to unite to form a
+new individual, must carry to their union only half the species
+number. is is accomplished with extraordinary precision by a
+change in the behavior of the chromosomes that occurs at one of
+the divisions producing those cells. At this time the chromosomes
+do not split, but one whole chromosome of each pair goes into
+each daughter cell.
+In this elemental drama all life is revealed as one. e events
+of the process of cell division are common to all earthly life;
+neither man nor amoeba, the giant sequoia nor the simple yeast
+cell can long exist without carrying on this process of cell division.
+Anything that disturbs mitosis is therefore a grave threat to the
+welfare of the organism affected and to its descendants.
+e major features of cellular organization, including, for
+instance, mitosis, must be much older than  million years
+more nearly  million, wrote George Gaylord Simpson and
+his colleagues Pittendrigh and Tiffany in their broadly
+encompassing book entitled Life. In this sense the world of life,
+while surely fragile and complex, is incredibly durable through
+timemore durable than mountains. is durability is wholly
+dependent on the almost incredible accuracy with which the
+inherited information is copied from generation to generation.
+But in all the thousand million years envisioned by these
+authors no threat has struck so directly and so forcefully at that
+incredible accuracy as the mid-th century threat of man-
+made radiation and man-made and man-disseminated chemicals.
+Sir Macfarlane Burnet, a distinguished Australian physician and
+a Nobel Prize winner, considers it one of the most significant
+medical features of our time that, as a by-product of more and
+more powerful therapeutic procedures and the production of
+chemical substances outside of biological experiences, the normal
+protective barriers that kept mutagenic agents from the internal
+organs have been more and more frequently penetrated.
+e study of human chromosomes is in its infancy, and so it
+has only recently become possible to study the effect of
+environmental factors upon them. It was not until  that new
+techniques made it possible to determine accurately the number
+of chromosomes in the human celland to observe them in
+such detail that the presence or absence of whole chromosomes
+or even parts of chromosomes could be detected. e whole
+concept of genetic damage by something in the environment is
+also relatively new, and is little understood except by the
+geneticists, whose advice is too seldom sought. e hazard from
+radiation in its various forms is now reasonably well
+understoodalthough still denied in surprising places. Dr.
+Muller has frequently had occasion to deplore the resistance to
+the acceptance of genetic principles on the part of so many, not
+only of governmental appointees in the policy-making positions,
+but also of so many of the medical profession. e fact that
+chemicals may play a role similar to radiation has scarcely dawned
+on the public mind, nor on the minds of most medical or scientific
+workers. For this reason the role of chemicals in general use
+(rather than in laboratory experiments) has not yet been assessed.
+It is extremely important that this be done.
+Sir Macfarlane is not alone in his estimate of the potential
+danger. Dr. Peter Alexander, an outstanding British authority, has
+said that the radiomimetic chemicals may well represent a
+greater danger than radiation. Dr. Muller, with the perspective
+gained by decades of distinguished work in genetics, warns that
+various chemicals (including groups represented by pesticides)
+can raise the mutation frequency as much as radiation. As yet
+far too little is known of the extent to which our genes, under
+modern conditions of exposure to unusual chemicals, are being
+subjected to such mutagenic influences.
+e widespread neglect of the problem of chemical mutagens
+is perhaps due to the fact that those first discovered were of
+scientific interest only. Nitrogen mustard, after all, is not sprayed
+upon whole populations from the air; its use is in the hands of
+experimental biologists or of physicians who use it in cancer
+therapy. (A case of chromosome damage in a patient receiving
+such therapy has recently been reported.) But insecticides and
+weed killers are brought into intimate contact with large numbers
+of people.
+Despite the scant attention that has been given to the matter,
+it is possible to assemble specific information on a number of
+these pesticides, showing that they disturb the cells vital
+processes in ways ranging from slight chromosome damage to
+gene mutation, and with consequences extending to the ultimate
+disaster of malignancy.
+Mosquitoes exposed to DDT for several generations turned
+into strange creatures called gynandromorphspart male and
+part female.
+Plants treated with various phenols suffered profound
+destruction of chromosomes, changes in genes, a striking number
+of mutations, irreversible hereditary changes. Mutations also
+occurred in fruit flies, the classic subject of genetics experiments,
+when subjected to phenol; these flies developed mutations so
+damaging as to be fatal on exposure to one of the common
+herbicides or to urethane. Urethane belongs to the group of
+chemicals called carbamates, from which an increasing number
+of insecticides and other agricultural chemicals are drawn. Two
+of the carbamates are actually used to prevent sprouting of
+potatoes in storageprecisely because of their proven effect in
+stopping cell division. Another antisprouting agent, maleic
+hydrazide, is rated a powerful mutagen.
+Plants treated with benzene hexachloride (BHC) or lindane
+became monstrously deformed with tumorlike swellings on their
+roots. eir cells grew in size, being swollen with chromosomes
+which doubled in number. e doubling continued in future
+divisions until further cell division became mechanically
+impossible.
+e herbicide ,-D has also produced tumorlike swellings in
+treated plants. Chromosomes become short, thick, clumped
+together. Cell division is seriously retarded. e general effect is
+said to parallel closely that produced by X-rays.
+ese are but a few illustrations; many more could be cited.
+As yet there has been no comprehensive study aimed at testing
+the mutagenic effects of pesticides as such. e facts cited above
+are by-products of research in cell physiology or genetics. What
+is urgently needed is a direct attack on the problem.
+Some scientists who are willing to concede the potent effect
+of environmental radiation on man nevertheless question
+whether mutagenic chemicals can, as a practical proposition,
+have the same effect. ey cite the great penetrating power of
+radiation, but doubt that chemicals could reach the germ cells.
+Once again we are hampered by the fact that there has been little
+direct investigation of the problem in man. However, the finding
+of large residues of DDT in the gonads and germ cells of birds and
+mammals is strong evidence that the chlorinated hydrocarbons,
+at least, not only become widely distributed throughout the body
+but come into contact with genetic materials. Professor David E.
+Davis at Pennsylvania State University has recently discovered
+that a potent chemical which prevents cells from dividing and has
+had limited use in cancer therapy can also be used to cause
+sterility in birds. Sublethal levels of the chemical halt cell division
+in the gonads. Professor Davis has had some success in field trials.
+Obviously, then, there is little basis for the hope or belief that the
+gonads of any organism are shielded from chemicals in the
+environment.
+Recent medical findings in the field of chromosome
+abnormalities are of extreme interest and significance. In
+several British and French research teams found their
+independent studies pointing to a common conclusionthat
+some of humanitys ills are caused by a disturbance of the normal
+chromosome number. In certain diseases and abnormalities
+studied by these investigators the number differed from the
+normal. To illustrate: it is now known that all typical mongoloids
+have one extra chromosome. Occasionally this is attached to
+another so that the chromosome number remains the normal .
+As a rule, however, the extra is a separate chromosome, making
+the number . In such individuals, the original cause of the
+defect must have occurred in the generation preceding its
+appearance.
+A different mechanism seems to operate in a number of
+patients, both in America and Great Britain, who are suffering
+from a chronic form of leukemia. ese have been found to have
+a consistent chromosome abnormality in some of the blood cells.
+e abnormality consists of the loss of part of a chromosome. In
+these patients the skin cells have a normal complement of
+chromosomes. is indicates that the chromosome defect did not
+occur in the germ cells that gave rise to these individuals, but
+represents damage to particular cells (in this case, the precursors
+of blood cells) that occurred during the life of the individual. e
+loss of part of a chromosome has perhaps deprived these cells of
+their instructions for normal behavior.
+e list of defects linked to chromosome disturbances has
+grown with surprising speed since the opening of this territory,
+hitherto beyond the boundaries of medical research. One, known
+only as Klinefelters syndrome, involves a duplication of one of the
+sex chromosomes. e resulting individual is a male, but because
+he carries two of the X chromosomes (becoming XXY instead of
+XY, the normal male complement) he is some what abnormal.
+Excessive height and mental defects often accompany the sterility
+caused by this condition. In contrast, an individual who receives
+only one sex chromosome (becoming XO instead of either XX or
+XY) is actually female but lacks many of the secondary sexual
+characteristics. e condition is accompanied by various physical
+(and sometimes mental) defects, for of course the X chromosome
+carries genes for a variety of characteristics. is is known as
+Turners syndrome. Both conditions had been described in
+medical literature long before the cause was known.
+An immense amount of work on the subject of chromosome
+abnormalities is being done by workers in many countries. A
+group at the University of Wisconsin, headed by Dr. Klaus Patau,
+has been concentrating on a variety of congenital abnormalities,
+usually including mental retardation, that seem to result from the
+duplication of only part of a chromosome, as if somewhere in the
+formation of one of the germ cells a chromosome had broken and
+the pieces had not been properly redistributed. Such a mishap is
+likely to interfere with the normal development of the embryo.
+According to present knowledge, the occurrence of an entire
+extra body chromosome is usually lethal, preventing survival of
+the embryo. Only three such conditions are known to be viable;
+one of them, of course, is mongolism. e presence of an extra
+attached fragment, on the other hand, although seriously
+damaging is not necessarily fatal, and according to the Wisconsin
+investigators this situation may well account for a substantial part
+of the so far unexplained cases in which a child is born with
+multiple defects, usually including mental retardation.
+is is so new a field of study that as yet scientists have been
+more concerned with identifying the chromosome abnormalities
+associated with disease and defective development than with
+speculating about the causes. It would be foolish to assume that
+any single agent is responsible for damaging the chromosomes or
+causing their erratic behavior during cell division. But can we
+afford to ignore the fact that we are now filling the environment
+with chemicals that have the power to strike directly at the
+chromosomes, affecting them in the precise ways that could cause
+such conditions? Is this not too high a price to pay for a sproutless
+potato or a mosquitoless patio?
+We can, if we wish, reduce this threat to our genetic heritage,
+a possession that has come down to us through some two billion
+years of evolution and selection of living protoplasm, a possession
+that is ours for the moment only, until we must pass it on to
+generations to come. We are doing little now to preserve its
+integrity. Although chemical manufacturers are required by law
+to test their materials for toxicity, they are not required to make
+the tests that would reliably demonstrate genetic effect, and they
+do not do so.
